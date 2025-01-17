@@ -6,7 +6,7 @@ In this homework assignment, you will be implementing simple statistical functio
 
 1. Receive three numbers using `cin` in main(). You may assume that only integers are entered. 
 
-2. Compute the median by implementing median() in stats.cpp. Call the function in main() and print out the result using `cout`. Refer to stats.h for its return data type and parameters.
+2. Compute the median by implementing median() in stats.cpp. Do not use any built-in functions, such as sort(). Call median() in main() and print out the result using `cout`. Refer to stats.h for its return data type and parameters.
 
 4. Repeat for max().
 
